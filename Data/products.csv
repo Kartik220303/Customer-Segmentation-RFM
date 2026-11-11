@@ -1,0 +1,123 @@
+product_id,product_name,category,sub_category,list_price,cost_price
+P001,Urban Weave T-Shirt Essential,Fashion,T-Shirt,929,596.39
+P002,Trend Loom Jeans Compact,Fashion,Jeans,479,268.79
+P003,Urban Weave Kurta Plus,Fashion,Kurta,2199,1511.05
+P004,Trend Loom Sneakers Elite,Fashion,Sneakers,1239,623.47
+P005,Trend Loom Jacket Signature,Fashion,Jacket,1279,690.01
+P006,Trend Loom Dress Compact,Fashion,Dress,2309,1676.23
+P007,Roadster Lane Shirt Elite,Fashion,Shirt,1439,972.5
+P008,Roadster Lane Handbag Plus,Fashion,Handbag,1649,1150.62
+P009,Urban Weave Watch Elite,Fashion,Watch,1179,650.39
+P010,Urban Weave Sandals Pro,Fashion,Sandals,1389,719.36
+P011,Indigo Co T-Shirt Pro,Fashion,T-Shirt,1129,654.0
+P012,Roadster Lane Jeans Classic,Fashion,Jeans,1299,589.55
+P013,Roadster Lane Kurta Essential,Fashion,Kurta,2199,1230.46
+P014,Lumora Basics Sneakers Signature,Fashion,Sneakers,979,615.26
+P015,Indigo Co Jacket Essential,Fashion,Jacket,719,388.26
+P016,Indigo Co Dress Signature,Fashion,Dress,739,526.45
+P017,Trend Loom Shirt Pro,Fashion,Shirt,1099,694.58
+P018,Indigo Co Handbag Pro,Fashion,Handbag,2469,1812.36
+P019,Trend Loom Watch Compact,Fashion,Watch,879,509.67
+P020,Indigo Co Sandals Max,Fashion,Sandals,1099,1208.9
+P021,VoltEdge Earbuds Lite,Electronics,Earbuds,6749,3672.44
+P022,Sonic Smartwatch Max,Electronics,Smartwatch,5299,3498.68
+P023,Nova Bluetooth Speaker Essential,Electronics,Bluetooth Speaker,2319,1386.61
+P024,Zenith Power Bank Premium,Electronics,Power Bank,7239,7962.9
+P025,VoltEdge Tablet Pro,Electronics,Tablet,25809,15860.79
+P026,VoltEdge Headphones Elite,Electronics,Headphones,34869,19583.94
+P027,Sonic Webcam Premium,Electronics,Webcam,2439,1459.62
+P028,Nova Keyboard Signature,Electronics,Keyboard,8719,5690.82
+P029,Sonic Monitor Elite,Electronics,Monitor,9969,5730.99
+P030,VoltEdge Smart Bulb Signature,Electronics,Smart Bulb,4419,3041.2
+P031,Sonic Earbuds Max,Electronics,Earbuds,5649,3095.45
+P032,VoltEdge Smartwatch Elite,Electronics,Smartwatch,2889,2157.85
+P033,VoltEdge Bluetooth Speaker Compact,Electronics,Bluetooth Speaker,2019,1125.53
+P034,Sonic Power Bank Classic,Electronics,Power Bank,1429,777.76
+P035,Sonic Tablet Plus,Electronics,Tablet,12659,7278.56
+P036,PixelWave Headphones Classic,Electronics,Headphones,5529,4077.85
+P037,Sonic Webcam Pro,Electronics,Webcam,5149,3276.21
+P038,Sonic Keyboard Signature,Electronics,Keyboard,2569,1885.95
+P039,VoltEdge Monitor Lite,Electronics,Monitor,2819,1520.32
+P040,VoltEdge Smart Bulb Plus,Electronics,Smart Bulb,6479,4221.38
+P041,HomeNest Cookware Set Premium,Home & Kitchen,Cookware Set,759,362.7
+P042,Aura Living Mixer Grinder Compact,Home & Kitchen,Mixer Grinder,1059,668.54
+P043,Cozy Craft Bedsheet Compact,Home & Kitchen,Bedsheet,729,459.57
+P044,Aura Living Curtains Max,Home & Kitchen,Curtains,769,551.48
+P045,PureCook Dinner Set Compact,Home & Kitchen,Dinner Set,1659,840.25
+P046,Aura Living Air Fryer Signature,Home & Kitchen,Air Fryer,509,349.34
+P047,Aura Living Storage Box Plus,Home & Kitchen,Storage Box,1049,679.63
+P048,Cozy Craft Wall Clock Max,Home & Kitchen,Wall Clock,1929,1398.87
+P049,HomeNest Vacuum Flask Classic,Home & Kitchen,Vacuum Flask,299,188.31
+P050,Kitchenly Table Lamp Elite,Home & Kitchen,Table Lamp,489,239.82
+P051,Aura Living Cookware Set Compact,Home & Kitchen,Cookware Set,4979,2842.26
+P052,Aura Living Mixer Grinder Essential,Home & Kitchen,Mixer Grinder,1429,672.08
+P053,Kitchenly Bedsheet Max,Home & Kitchen,Bedsheet,579,409.42
+P054,Aura Living Curtains Premium,Home & Kitchen,Curtains,1179,644.21
+P055,PureCook Dinner Set Premium,Home & Kitchen,Dinner Set,929,512.29
+P056,Aura Living Air Fryer Compact,Home & Kitchen,Air Fryer,1379,673.65
+P057,HomeNest Storage Box Max,Home & Kitchen,Storage Box,1719,790.42
+P058,Cozy Craft Wall Clock Premium,Home & Kitchen,Wall Clock,2679,1651.42
+P059,HomeNest Vacuum Flask Premium,Home & Kitchen,Vacuum Flask,239,144.55
+P060,PureCook Table Lamp Max,Home & Kitchen,Table Lamp,779,556.48
+P061,Silk & Sage Face Wash Lite,Beauty & Personal Care,Face Wash,1359,741.48
+P062,Silk & Sage Moisturizer Premium,Beauty & Personal Care,Moisturizer,789,382.95
+P063,GlowRoot Perfume Max,Beauty & Personal Care,Perfume,659,458.6
+P064,Silk & Sage Shampoo Essential,Beauty & Personal Care,Shampoo,379,234.03
+P065,GlowRoot Sunscreen Plus,Beauty & Personal Care,Sunscreen,929,612.84
+P066,Silk & Sage Lipstick Lite,Beauty & Personal Care,Lipstick,1149,823.66
+P067,Silk & Sage Hair Serum Classic,Beauty & Personal Care,Hair Serum,1319,850.82
+P068,GlowRoot Trimmer Classic,Beauty & Personal Care,Trimmer,259,181.99
+P069,Silk & Sage Body Lotion Elite,Beauty & Personal Care,Body Lotion,259,170.07
+P070,Herbiva Beard Oil Pro,Beauty & Personal Care,Beard Oil,209,119.72
+P071,Herbiva Face Wash Plus,Beauty & Personal Care,Face Wash,1769,983.41
+P072,Veda Pure Moisturizer Pro,Beauty & Personal Care,Moisturizer,1459,751.32
+P073,Herbiva Perfume Classic,Beauty & Personal Care,Perfume,109,61.07
+P074,Herbiva Shampoo Max,Beauty & Personal Care,Shampoo,209,110.8
+P075,Lumora Care Sunscreen Lite,Beauty & Personal Care,Sunscreen,569,310.47
+P076,GlowRoot Lipstick Essential,Beauty & Personal Care,Lipstick,1269,661.94
+P077,Herbiva Hair Serum Elite,Beauty & Personal Care,Hair Serum,699,341.32
+P078,Silk & Sage Trimmer Lite,Beauty & Personal Care,Trimmer,559,322.48
+P079,Herbiva Body Lotion Plus,Beauty & Personal Care,Body Lotion,429,290.64
+P080,Silk & Sage Beard Oil Elite,Beauty & Personal Care,Beard Oil,299,328.9
+P081,Stride Yoga Mat Elite,Sports & Fitness,Yoga Mat,549,375.74
+P082,AeroFit Dumbbell Set Max,Sports & Fitness,Dumbbell Set,309,143.04
+P083,FitPeak Running Shoes Signature,Sports & Fitness,Running Shoes,2519,1156.57
+P084,Stride Cricket Bat Lite,Sports & Fitness,Cricket Bat,11569,6822.75
+P085,AeroFit Resistance Bands Max,Sports & Fitness,Resistance Bands,779,428.87
+P086,AeroFit Gym Bag Signature,Sports & Fitness,Gym Bag,789,581.77
+P087,Kinetic Football Lite,Sports & Fitness,Football,2519,1189.39
+P088,AeroFit Skipping Rope Plus,Sports & Fitness,Skipping Rope,3979,1990.88
+P089,Kinetic Protein Shaker Classic,Sports & Fitness,Protein Shaker,2239,1206.61
+P090,FitPeak Fitness Tracker Signature,Sports & Fitness,Fitness Tracker,3729,2482.16
+P091,FitPeak Yoga Mat Classic,Sports & Fitness,Yoga Mat,429,319.13
+P092,ProGrip Dumbbell Set Essential,Sports & Fitness,Dumbbell Set,1109,708.09
+P093,FitPeak Running Shoes Classic,Sports & Fitness,Running Shoes,5759,2729.13
+P094,AeroFit Cricket Bat Premium,Sports & Fitness,Cricket Bat,2339,1278.16
+P095,ProGrip Resistance Bands Max,Sports & Fitness,Resistance Bands,899,552.74
+P096,Kinetic Gym Bag Essential,Sports & Fitness,Gym Bag,3259,2030.76
+P097,FitPeak Football Premium,Sports & Fitness,Football,1299,778.88
+P098,Kinetic Skipping Rope Elite,Sports & Fitness,Skipping Rope,2019,1016.31
+P099,AeroFit Protein Shaker Lite,Sports & Fitness,Protein Shaker,1159,645.41
+P100,Stride Fitness Tracker Elite,Sports & Fitness,Fitness Tracker,2219,1432.65
+P101,Scribble Notebook Plus,Books & Stationery,Notebook,289,194.59
+P102,BrightMind Fiction Novel Elite,Books & Stationery,Fiction Novel,399,271.75
+P103,Lumora Papers Planner Premium,Books & Stationery,Planner,169,86.81
+P104,Scribble Pen Set Plus,Books & Stationery,Pen Set,419,299.09
+P105,PageTurn Art Kit Compact,Books & Stationery,Art Kit,379,200.42
+P106,BrightMind Self-Help Book Classic,Books & Stationery,Self-Help Book,429,195.75
+P107,InkWell Desk Organizer Lite,Books & Stationery,Desk Organizer,389,206.64
+P108,PageTurn Sketchbook Compact,Books & Stationery,Sketchbook,399,249.93
+P109,PageTurn Highlighters Premium,Books & Stationery,Highlighters,269,155.55
+P110,InkWell Study Guide Premium,Books & Stationery,Study Guide,479,307.14
+P111,PageTurn Notebook Lite,Books & Stationery,Notebook,279,160.79
+P112,Scribble Fiction Novel Plus,Books & Stationery,Fiction Novel,539,335.53
+P113,Scribble Planner Lite,Books & Stationery,Planner,359,163.19
+P114,InkWell Pen Set Lite,Books & Stationery,Pen Set,249,176.65
+P115,BrightMind Art Kit Max,Books & Stationery,Art Kit,159,94.81
+P116,BrightMind Self-Help Book Compact,Books & Stationery,Self-Help Book,159,85.63
+P117,BrightMind Desk Organizer Pro,Books & Stationery,Desk Organizer,259,144.97
+P118,BrightMind Sketchbook Max,Books & Stationery,Sketchbook,419,286.2
+P119,InkWell Highlighters Essential,Books & Stationery,Highlighters,239,178.8
+P120,InkWell Study Guide Max,Books & Stationery,Study Guide,199,97.8
+P102,BrightMind Fiction Novel Elite,Books & Stationery,Fiction Novel,399,271.75
+P106,BrightMind Self-Help Book Classic,Books & Stationery,Self-Help Book,429,195.75
