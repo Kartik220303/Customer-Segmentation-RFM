@@ -64,19 +64,18 @@ Definitions used in the report:
 
 ## Reproduce it
 
-1. Create the five staging tables and load the raw CSVs <!-- TODO: how the CSVs were loaded -->.
-2. Run `sql/customer_segmentation_consolidated.sql` top to bottom in one session (MySQL 8.0+). Section 12 holds checks with expected values.
-3. Export `rfm_segments` (query at the end of section 11) and run the clustering notebook <!-- TODO: file name -->.
-4. Open the Power BI file and refresh.
+1. Create the five staging tables (the `CREATE TABLE` statements at the top of the SQL script) and load the five CSVs from `Data/` <!-- TODO: how the CSVs were loaded -->.
+2. Run `Sql/Customer_Segmentation.sql` top to bottom (MySQL 8.0+).
+3. Export `rfm_segments` (the last query in the script) and run `Python/rfm_segments.ipynb`.
+4. Open `Power Bi/Customer Segmentation.pbix` and refresh.
 
 ## Repository
 
 ```
-sql/        customer_segmentation_consolidated.sql
-python/     K-Means clustering        <!-- TODO -->
-powerbi/    report file (.pbix)
-data/       raw CSVs                  <!-- TODO: include if shareable -->
-images/     report screenshots
+Data/       raw CSVs (campaign_responses, customers, orders, order_items, products)
+Power Bi/   Customer Segmentation.pbix
+Python/     rfm_segments.ipynb
+Sql/        Customer_Segmentation.sql
 ```
 
 ## Tools
